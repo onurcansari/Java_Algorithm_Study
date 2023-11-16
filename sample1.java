@@ -6,7 +6,7 @@ public class sample1{
         System.out.println("Please enter a name");
         String name = input.nextLine();
         int i = 0;
-        while(i <= 5){
+        while(i <= 61){
             System.out.println(name);
             i++;
         }
