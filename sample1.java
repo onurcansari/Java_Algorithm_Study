@@ -5,10 +5,10 @@ public class sample1{
         Scanner input = new Scanner(System.in);
         System.out.println("Please enter a name");
         String name = input.nextLine();
-        int count = 0;
-        while(count <= 5){
+        int i = 0;
+        while(i <= 5){
             System.out.println(name);
-            count++;
+            i++;
         }
     }
 }
