@@ -1,7 +1,5 @@
-import java.util.Scanner;
-
 // Find the maximum and minimum values of 5 numbers
-
+import java.util.Scanner;
 public class sample13 {
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
