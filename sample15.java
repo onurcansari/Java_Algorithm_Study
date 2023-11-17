@@ -1,4 +1,4 @@
-// Multiplication by addition
+// Multiplication using addition
 
 import java.util.Scanner;
 
