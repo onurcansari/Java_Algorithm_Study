@@ -1,5 +1,4 @@
 //Replace the largest and smallest number in the array
-
 public class sample3 {
     public static void main(String[] args) {
         int A[] = { 5, 62, 8, 65, 222, 785, 2, 1, 557, 95, -8, -852, 455 };
