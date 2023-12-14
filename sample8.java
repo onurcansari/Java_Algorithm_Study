@@ -1,3 +1,5 @@
+// Find the average of numbers until 5 enters
+
 import java.util.Scanner;
 
 public class sample8 {
