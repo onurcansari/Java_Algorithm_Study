@@ -1,3 +1,5 @@
+// Find the exponent of the entered number
+
 import java.util.Scanner;
 
 public class sample11 {
