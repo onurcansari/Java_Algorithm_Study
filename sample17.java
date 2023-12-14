@@ -1,4 +1,5 @@
 // Dönem Sonu Notunuzu ve Bütünleme Durumunuzu Bulma
+
 import java.util.Scanner;
 
 public class sample17 {
