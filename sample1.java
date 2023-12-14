@@ -1,3 +1,5 @@
+// Printing the entered name 61 times
+
 import java.util.Scanner;
 
 public class sample1{
