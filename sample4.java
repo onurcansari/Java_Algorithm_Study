@@ -1,3 +1,5 @@
+// Indicates which type of triangle a triangle is
+
 import java.util.Scanner;
 
 public class sample4 {
