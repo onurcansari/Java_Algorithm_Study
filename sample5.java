@@ -1,3 +1,5 @@
+// Factorial calculation
+
 import java.util.Scanner;
 
 public class sample5 {
