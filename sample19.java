@@ -1,4 +1,5 @@
 // Calculate the factorial of numbers up to the entered number
+
 import java.util.Scanner;
 
 public class sample19 {
