@@ -1,3 +1,5 @@
+// Write the opposite of a binary number
+
 import java.util.Scanner;
 
 public class sample10 {
