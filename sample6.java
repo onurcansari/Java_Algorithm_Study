@@ -1,3 +1,5 @@
+// Substituting the value of two numbers
+
 import java.util.Scanner;
 
 public class sample6 {
